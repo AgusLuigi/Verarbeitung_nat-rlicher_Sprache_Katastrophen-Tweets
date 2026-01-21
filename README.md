@@ -10,6 +10,7 @@ To ensure scalability and system stability, I follow a set of core principles in
 * **Data Organization:** Priority is given to storing and loading data in **Packet-types** (structured packages) to ensure fast I/O and data integrity.
 * **Progress Monitoring:** Long-running tasks, such as LSTM training or data cleaning, always include `tqdm` progress bars for transparent status tracking.
 
+
 ## 🚀 Project Overview
 * **Goal:** Binary classification of disaster-related tweets.
 * **Technologies:** Python, Pandas, Scikit-learn, TensorFlow/Keras (LSTM).
