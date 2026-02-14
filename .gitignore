@@ -1,5 +1,10 @@
+# Projekt-spezifische Ablagerungen
 Ablagerung_NLP/
+
+# Betriebssystem & IDE
 .DS_Store
 .idea/
+
+# Python Cache
 __pycache__/
 *.pyc
